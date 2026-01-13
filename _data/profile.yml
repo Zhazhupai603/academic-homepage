@@ -1,17 +1,17 @@
-primary_name: "Your Name"
-secondary_name: ""
-navbar_name: "Your Name"
+primary_name: "张振鹏"
+secondary_name: "Alden Zhang"
+navbar_name: "张振鹏"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- name: Medical Student
+- name: Fudan University Shanghai Medical College
+  logo: /assets/images/badges/Logo.png  # Logo is optional
 
 
-email: "your@email.com"
+email: "23301020010@m.fudan.edu.com"
 # cv_link: link-to-your-cv-file
 gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
+github: zhazhupai603
 twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
@@ -35,16 +35,16 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+
+- name: Fudan University Shanghai Medical College
+  logo: /assets/images/badges/logo.png
+  position: Medical student, Clinical Medicine
+  date: Oct. 2023 - present
+- name: Panjin Senior Middle School
+  logo: /assets/images/badges/logo2.jpeg
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+   Student
+  date: Sep. 2020 - Jun. 2023
 
 # experience:
 # - name: Peking University
@@ -53,9 +53,13 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
-- name: Award Name 2
+- name: "三角洲行动 S6 S7 三角洲巅峰"
+  date: 2025
+- name: "王者荣耀 王者段位常驻" 
+  date: 2023
+- name: "金铲铲之战 超凡宗师段位常驻"
+  date: 2023
+- name: "CS2 完美服务器 C＋"
+  date: 2023
+- name: "无畏契约 南京节点 多赛季铂金" 
   date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
