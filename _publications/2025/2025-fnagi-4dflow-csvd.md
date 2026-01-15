@@ -1,6 +1,7 @@
 ---
 title:          "Hemodynamic changes and their relationship with white matter hyperintensities in CSVD patients with cognitive impairment: a 4D flow study"
-date:           2025-01-01 00:02:00 +0800
+date: 2025-06-01 12:00:00 +0800
+
 selected:       true
 pub:            "Frontiers in Aging Neuroscience"
 pub_date:       "2025"
