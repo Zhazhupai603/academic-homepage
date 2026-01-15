@@ -89,4 +89,13 @@ div.lazy {
 .email-text {
     font-family: Source Code Pro, monospace;
 }
+img.rounded-circle[alt="Portrait"]{
+  width: 180px !important;
+  height: 180px !important;
+  max-width: none !important;   /* 干掉你内联 max-width:50% */
+  object-fit: cover !important;
+  object-position: center !important;
+  border-radius: 50% !important;
+}
+
 
